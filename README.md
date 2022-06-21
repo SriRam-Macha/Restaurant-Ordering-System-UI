@@ -1,7 +1,7 @@
 
-# Sri Ram SE Project
+# Sri Ram Restaurant-Ordering-System-UI Project
 
-A new Flutter project.
+This projects uses Flutter Flow.
 
 ## Getting Started
 
