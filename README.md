@@ -1,3 +1,4 @@
+
 # Sri Ram SE Project
 
 A new Flutter project.
@@ -29,3 +30,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+## **UI Screenshots**
+
+<img src="https://github.com/SriRam-Macha/Restaurant-Ordering-System-UI/blob/main/assets/app_images/Screenshot_1651845489.png?raw=true" width="200" /> <img src="https://github.com/SriRam-Macha/Restaurant-Ordering-System-UI/blob/main/assets/app_images/Screenshot_1651845483.png?raw=true" width="200" /> <img src="https://github.com/SriRam-Macha/Restaurant-Ordering-System-UI/blob/main/assets/app_images/Screenshot_1651845486.png?raw=true" width="200" /> 
+
+<img src="https://github.com/SriRam-Macha/Restaurant-Ordering-System-UI/blob/main/assets/app_images/Screenshot_1651845561.png?raw=true" width="200" /> <img src="https://github.com/SriRam-Macha/Restaurant-Ordering-System-UI/blob/main/assets/app_images/Screenshot_1651845597.png?raw=true" width="200" /> 
